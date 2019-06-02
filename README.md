@@ -28,3 +28,7 @@
 * https://notes.acadview.com/?program=ml-v3&class=15-assignment#/
 ### Assignment 14
 * https://notes.acadview.com/?program=ml-v3&class=16-assignment#/
+### Assignment 15
+* https://notes.acadview.com/?program=ml-v3&class=18-assignment#/
+### Assignment 16
+* https://notes.acadview.com/?program=ml-v3&class=17-assignment#/
